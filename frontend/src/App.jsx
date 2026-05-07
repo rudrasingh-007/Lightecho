@@ -5,6 +5,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import StarField from "./components/StarField";
 import Home from "./pages/Home";
+import ElementPicker from "./pages/ElementPicker";
 
 
 // Main App component: the root of the entire application.
@@ -24,8 +25,7 @@ function App() {
 				{/* Routes define which component to render for each URL path.
 				    "/" is the home page; more routes can be added here as features expand. */}
 				<Routes>
-					<Route path="/" element={<Home />} />
-				</Routes>
+					<Route path="/" element={<Home />} />				<Route path="/elements" element={<ElementPicker />} />				</Routes>
 			</div>
 		</BrowserRouter>
 	);

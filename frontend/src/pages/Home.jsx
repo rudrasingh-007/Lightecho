@@ -3,6 +3,7 @@
 // an elegant, cinematic intro that invites the user to begin their journey.
 
 import { motion } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 
 // Motion variants for a slow, cinematic fade-up entrance (not bouncy).
 const itemVariant = {
@@ -15,6 +16,9 @@ const itemVariant = {
 };
 
 export default function Home() {
+	// Use the React Router navigation hook to navigate to /elements when button is clicked.
+	const navigate = useNavigate();
+
 	return (
 		// Full-screen centered container. Content has higher stacking context
 		// (z-10) so it appears above the fixed StarField background.
@@ -70,6 +74,7 @@ export default function Home() {
 				>
 					<button
 						aria-label="Begin Your Journey"
+						onClick={() => navigate("/elements")}
 						className={
 							"mt-8 inline-block rounded-full px-8 py-3 border border-[#C8A2FF] text-white bg-transparent " +
 							"hover:bg-[#C8A2FF] transition-colors duration-300 focus:outline-none " +

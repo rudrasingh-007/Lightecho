@@ -1,0 +1,106 @@
+[
+  {
+    "symbol": "H",
+    "name": "Hydrogen",
+    "category": "big_bang",
+    "color": "#4FC3F7",
+    "atomicNumber": 1,
+    "teaser": "The first light in the universe, born from pure energy in the first moments of creation."
+  },
+  {
+    "symbol": "He",
+    "name": "Helium",
+    "category": "big_bang",
+    "color": "#4FC3F7",
+    "atomicNumber": 2,
+    "teaser": "Fused from hydrogen in the cosmic furnace, the second element to grace existence."
+  },
+  {
+    "symbol": "Li",
+    "name": "Lithium",
+    "category": "big_bang",
+    "color": "#4FC3F7",
+    "atomicNumber": 3,
+    "teaser": "Traced back to the Big Bang itself, rare and ancient, a relic of the universe's first moments."
+  },
+  {
+    "symbol": "C",
+    "name": "Carbon",
+    "category": "star_born",
+    "color": "#FFD700",
+    "atomicNumber": 6,
+    "teaser": "The backbone of life, forged in the hearts of aging stars and scattered across the cosmos."
+  },
+  {
+    "symbol": "N",
+    "name": "Nitrogen",
+    "category": "star_born",
+    "color": "#FFD700",
+    "atomicNumber": 7,
+    "teaser": "Born in stellar furnaces, it breathes life into every living thing on Earth."
+  },
+  {
+    "symbol": "O",
+    "name": "Oxygen",
+    "category": "star_born",
+    "color": "#FFD700",
+    "atomicNumber": 8,
+    "teaser": "Forged in the nuclear hearts of dying stars, it fuels the spark of consciousness itself."
+  },
+  {
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "category": "stellar_giants",
+    "color": "#FF6B6B",
+    "atomicNumber": 12,
+    "teaser": "Created in the final throes of a stellar collapse, this metal once burned in an alien sun."
+  },
+  {
+    "symbol": "Si",
+    "name": "Silicon",
+    "category": "stellar_giants",
+    "color": "#FF6B6B",
+    "atomicNumber": 14,
+    "teaser": "The architect of worlds, forged in massive stars and now the foundation of planets and sand."
+  },
+  {
+    "symbol": "S",
+    "name": "Sulfur",
+    "category": "stellar_giants",
+    "color": "#FF6B6B",
+    "atomicNumber": 16,
+    "teaser": "Born in the violent cores of dying giants, it traveled across space to become part of you."
+  },
+  {
+    "symbol": "Fe",
+    "name": "Iron",
+    "category": "stellar_giants",
+    "color": "#FF6B6B",
+    "atomicNumber": 26,
+    "teaser": "Forged in the final breath of a giant star, this element once beat at the heart of worlds."
+  },
+  {
+    "symbol": "Pt",
+    "name": "Platinum",
+    "category": "cosmic_violence",
+    "color": "#C8A2FF",
+    "atomicNumber": 78,
+    "teaser": "Born only in cosmic collisions and neutron star mergers, the rarest gift from the universe."
+  },
+  {
+    "symbol": "Au",
+    "name": "Gold",
+    "category": "cosmic_violence",
+    "color": "#C8A2FF",
+    "atomicNumber": 79,
+    "teaser": "Created in the violent collision of neutron stars, this precious metal carries the universe's most extreme moment."
+  },
+  {
+    "symbol": "U",
+    "name": "Uranium",
+    "category": "cosmic_violence",
+    "color": "#C8A2FF",
+    "atomicNumber": 92,
+    "teaser": "Born in the violent death throes of massive stars, its radioactive pulse echoes across billions of years."
+  }
+]
