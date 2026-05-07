@@ -1,14 +1,81 @@
-// Home.jsx - LIGHTECHO home page.
-// A simple placeholder showing the app title and cosmic tagline.
+// Home.jsx - LIGHTECHO landing page
+// This page sits above the persistent starfield background and provides
+// an elegant, cinematic intro that invites the user to begin their journey.
+
+import { motion } from "framer-motion";
+
+// Motion variants for a slow, cinematic fade-up entrance (not bouncy).
+const itemVariant = {
+	hidden: { opacity: 0, y: 20 },
+	visible: (delay = 0) => ({
+		opacity: 1,
+		y: 0,
+		transition: { duration: 0.8, ease: "easeOut", delay },
+	}),
+};
 
 export default function Home() {
 	return (
-		<div className="min-h-screen bg-black/70 text-white flex items-center justify-center">
-			<div className="text-center">
-				<h1 className="text-6xl font-bold mb-6">LIGHTECHO</h1>
-				<p className="text-xl text-gray-200">
-					Every atom in you has a 13.8 billion year story
-				</p>
+		// Full-screen centered container. Content has higher stacking context
+		// (z-10) so it appears above the fixed StarField background.
+		<div className="min-h-screen flex items-center justify-center relative z-10">
+			<div className="text-center px-4">
+
+				{/* Top small label: app name in nebula purple, spaced letters */}
+				<motion.div
+					initial="hidden"
+					animate="visible"
+					custom={0}
+					variants={itemVariant}
+				>
+					<div className="text-[10px] tracking-widest text-[#C8A2FF] uppercase mb-6">
+						LIGHTECHO
+					</div>
+				</motion.div>
+
+				{/* Main headline: two lines, very large and bold, centered */}
+				<motion.h1
+					initial="hidden"
+					animate="visible"
+					custom={0.15}
+					variants={itemVariant}
+					className="text-white font-extrabold leading-tight text-5xl md:text-6xl"
+				>
+					<div>You are not from Earth.</div>
+					<div>You are from the stars.</div>
+				</motion.h1>
+
+				{/* Subtitle: soft white, constrained width for readability */}
+				<motion.p
+					initial="hidden"
+					animate="visible"
+					custom={0.3}
+					variants={itemVariant}
+					className="text-white/80 mt-6 mx-auto max-w-2xl text-base md:text-lg"
+				>
+					Every atom in your body was forged in a dying star billions of years ago.
+					Choose an element. Hear its story.
+				</motion.p>
+
+				{/* Call-to-action button: transparent with nebula purple border and glow on hover */}
+				<motion.div
+					initial="hidden"
+					animate="visible"
+					custom={0.45}
+					variants={itemVariant}
+				>
+					<button
+						aria-label="Begin Your Journey"
+						className={
+							"mt-8 inline-block rounded-full px-8 py-3 border border-[#C8A2FF] text-white bg-transparent " +
+							"hover:bg-[#C8A2FF] transition-colors duration-300 focus:outline-none " +
+							"ring-0 hover:ring-8 hover:ring-[#C8A2FF]/30"
+						}
+					>
+						Begin Your Journey
+					</button>
+				</motion.div>
+
 			</div>
 		</div>
 	);
