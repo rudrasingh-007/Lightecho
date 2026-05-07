@@ -39,7 +39,11 @@ export default function Home() {
 					animate="visible"
 					custom={0.15}
 					variants={itemVariant}
-					className="text-white font-extrabold leading-tight text-5xl md:text-6xl"
+					// Use Playfair Display serif for a classic, literary headline.
+					// Applied inline to ensure the font choice takes precedence while
+					// keeping Tailwind's size classes (`text-5xl`/`md:text-6xl`).
+					style={{ fontFamily: "'Playfair Display', serif" }}
+					className="text-white font-normal leading-tight text-5xl md:text-6xl"
 				>
 					<div>You are not from Earth.</div>
 					<div>You are from the stars.</div>
