@@ -1,0 +1,574 @@
+{
+  "H": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "In the first fraction of a second, the universe exploded into being as pure energy."
+    },
+    {
+      "id": 2,
+      "title": "Primordial Nucleosynthesis",
+      "timestamp": "13.7 billion years ago",
+      "description": "Protons and neutrons collided in cosmic furnaces, and you were born as the universe's first nucleus."
+    },
+    {
+      "id": 3,
+      "title": "The First Stars Ignite",
+      "timestamp": "13.5 billion years ago",
+      "description": "Hydrogen clouds collapsed under gravity, and the first stars blazed to life, burning you as their fuel."
+    },
+    {
+      "id": 4,
+      "title": "Stellar Furnaces",
+      "timestamp": "13 billion to 5 billion years ago",
+      "description": "Throughout cosmic history, you fused into helium in countless stars, powering the light of galaxies."
+    },
+    {
+      "id": 5,
+      "title": "Stellar Winds Release",
+      "timestamp": "5 billion years ago",
+      "description": "Aging stars shed you into space through gentle winds and violent supernovae."
+    },
+    {
+      "id": 6,
+      "title": "Interstellar Wandering",
+      "timestamp": "5 billion to 4.6 billion years ago",
+      "description": "You drifted through nebulae and stellar nurseries, carried on cosmic winds and radiation."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Waters",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on a young Earth and combined with oxygen to form the oceans, the cradle of all life."
+    }
+  ],
+  "He": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "In the first moments of creation, your nucleus formed from the universe's primordial fire."
+    },
+    {
+      "id": 2,
+      "title": "Cosmic Abundance",
+      "timestamp": "13.7 billion years ago",
+      "description": "You became the second most abundant element, filling the young universe alongside hydrogen."
+    },
+    {
+      "id": 3,
+      "title": "The First Stars",
+      "timestamp": "13.5 billion years ago",
+      "description": "Within massive stars, you were fused from hydrogen, powering the cosmos itself."
+    },
+    {
+      "id": 4,
+      "title": "Stellar Synthesis",
+      "timestamp": "13 billion to 1 billion years ago",
+      "description": "In countless stellar cores, you were created and scattered, enriching the universe."
+    },
+    {
+      "id": 5,
+      "title": "Stellar Ejection",
+      "timestamp": "1 billion years ago",
+      "description": "You were expelled from dying stars, ejected by their final gasps into space."
+    },
+    {
+      "id": 6,
+      "title": "Galactic Journey",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You drifted through galaxies as part of nebulae and the interstellar wind."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Atmosphere",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and became a trace element in the upper atmosphere, escaping gravity itself."
+    }
+  ],
+  "Li": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "You were forged in the first three minutes of existence, a relic of the primordial furnace."
+    },
+    {
+      "id": 2,
+      "title": "Cosmic Rarity",
+      "timestamp": "13.7 billion years ago",
+      "description": "Among the rare nuclei created at the beginning, lithium was precious and sparse."
+    },
+    {
+      "id": 3,
+      "title": "First Stars Form",
+      "timestamp": "13.5 billion years ago",
+      "description": "Massive stars ignited, burning hydrogen but leaving rare lithium largely untouched."
+    },
+    {
+      "id": 4,
+      "title": "Stellar Survival",
+      "timestamp": "13 billion to 1 billion years ago",
+      "description": "You survived in stellar atmospheres, created occasionally when cosmic rays struck atoms."
+    },
+    {
+      "id": 5,
+      "title": "Supernova Scattering",
+      "timestamp": "1 billion years ago",
+      "description": "A massive star's death sent you spiraling outward into the interstellar medium."
+    },
+    {
+      "id": 6,
+      "title": "Ancient Wandering",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You traveled through countless nebulae, your rarity making you a prized cosmic artifact."
+    },
+    {
+      "id": 7,
+      "title": "Arrival on Earth",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and became incorporated into rocks and minerals that sustain life."
+    }
+  ],
+  "C": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "The universe ignited into existence, setting the stage for chemistry itself."
+    },
+    {
+      "id": 2,
+      "title": "First Generation Stars",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first massive stars formed from primordial hydrogen and helium."
+    },
+    {
+      "id": 3,
+      "title": "A Star is Born",
+      "timestamp": "5 billion years ago",
+      "description": "A medium-mass star like our Sun ignited, carrying you in its core."
+    },
+    {
+      "id": 4,
+      "title": "The Cosmic Forge",
+      "timestamp": "5 billion to 1 billion years ago",
+      "description": "Deep in stellar furnaces, you were forged through triple-alpha fusion, the basis for all life."
+    },
+    {
+      "id": 5,
+      "title": "Planetary Nebula",
+      "timestamp": "1 billion years ago",
+      "description": "Your star exhausted its fuel and shed you gently into space through a delicate planetary nebula."
+    },
+    {
+      "id": 6,
+      "title": "Cosmic Drifting",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You drifted through the galaxy as part of stellar dust, waiting to find a home."
+    },
+    {
+      "id": 7,
+      "title": "Life on Earth",
+      "timestamp": "3.8 billion years ago",
+      "description": "You arrived on Earth and became the backbone of every living thing."
+    }
+  ],
+  "N": [
+    {
+      "id": 1,
+      "title": "The Cosmic Beginning",
+      "timestamp": "13.8 billion years ago",
+      "description": "From the Big Bang's fury came the seeds of all elements."
+    },
+    {
+      "id": 2,
+      "title": "Early Furnaces",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first stars ignited and began the cosmic forge."
+    },
+    {
+      "id": 3,
+      "title": "A Star is Kindled",
+      "timestamp": "4.5 billion years ago",
+      "description": "A medium-mass star formed and began its long journey of creation."
+    },
+    {
+      "id": 4,
+      "title": "Nuclear Alchemy",
+      "timestamp": "4.5 billion to 1 billion years ago",
+      "description": "Within stellar furnaces, you were synthesized from carbon, crucial for all protein."
+    },
+    {
+      "id": 5,
+      "title": "Stellar Farewell",
+      "timestamp": "1 billion years ago",
+      "description": "Your star gently shed you through a delicate planetary nebula."
+    },
+    {
+      "id": 6,
+      "title": "Interstellar Journey",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You drifted through space on stellar winds and radiation pressure."
+    },
+    {
+      "id": 7,
+      "title": "Life's Essential Element",
+      "timestamp": "3.8 billion years ago",
+      "description": "You reached Earth and became essential to DNA and proteins."
+    }
+  ],
+  "O": [
+    {
+      "id": 1,
+      "title": "Creation's Fire",
+      "timestamp": "13.8 billion years ago",
+      "description": "The Big Bang released infinite potential into the cosmos."
+    },
+    {
+      "id": 2,
+      "title": "First Furnaces",
+      "timestamp": "13.5 billion years ago",
+      "description": "Massive stars ignited and began forging heavier elements."
+    },
+    {
+      "id": 3,
+      "title": "A Middle Star Forms",
+      "timestamp": "5 billion years ago",
+      "description": "A medium-sized star, destined to harbor life, was born."
+    },
+    {
+      "id": 4,
+      "title": "The Forge",
+      "timestamp": "5 billion to 1 billion years ago",
+      "description": "You were fused in stellar furnaces, becoming the breath of all living things."
+    },
+    {
+      "id": 5,
+      "title": "The Star's Swan Song",
+      "timestamp": "1 billion years ago",
+      "description": "Your star gently released you into a planetary nebula, its final gift."
+    },
+    {
+      "id": 6,
+      "title": "The Cosmic Void",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You traveled through space, seeking a world that would need you."
+    },
+    {
+      "id": 7,
+      "title": "Earth's First Breath",
+      "timestamp": "3.8 billion years ago",
+      "description": "You arrived on Earth and became the essence of water and air."
+    }
+  ],
+  "Fe": [
+    {
+      "id": 1,
+      "title": "The Big Bang's Prologue",
+      "timestamp": "13.8 billion years ago",
+      "description": "The universe erupted into being, dense and infinitely hot."
+    },
+    {
+      "id": 2,
+      "title": "Stellar Nurseries",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first stars formed and began their cosmic work."
+    },
+    {
+      "id": 3,
+      "title": "A Massive Star Ignites",
+      "timestamp": "10 billion years ago",
+      "description": "A stellar giant was born, destined for a violent and apocalyptic end."
+    },
+    {
+      "id": 4,
+      "title": "The Stellar Furnace",
+      "timestamp": "10 billion to 100 million years ago",
+      "description": "Deep in the star's core, you were forged from silicon through nuclear fusion."
+    },
+    {
+      "id": 5,
+      "title": "Supernova: The Final Explosion",
+      "timestamp": "100 million years ago",
+      "description": "Your star's core collapsed and rebounded in a catastrophic supernova, scattering you across light-years."
+    },
+    {
+      "id": 6,
+      "title": "Through the Cosmos",
+      "timestamp": "100 million to 4.6 billion years ago",
+      "description": "You drifted through interstellar dust clouds, gathering cosmic companions."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Heart",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and sank to its core, becoming the planet's beating heart."
+    }
+  ],
+  "Si": [
+    {
+      "id": 1,
+      "title": "The Beginning",
+      "timestamp": "13.8 billion years ago",
+      "description": "The Big Bang released all possibility into the void."
+    },
+    {
+      "id": 2,
+      "title": "First Stars Rise",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first massive stars ignited across the young universe."
+    },
+    {
+      "id": 3,
+      "title": "A Giant Star Forms",
+      "timestamp": "8 billion years ago",
+      "description": "A massive star was born, destined to create the building blocks of worlds."
+    },
+    {
+      "id": 4,
+      "title": "Silicon's Birth",
+      "timestamp": "8 billion to 200 million years ago",
+      "description": "In the star's core, you were fused from oxygen, becoming the architect of planets."
+    },
+    {
+      "id": 5,
+      "title": "Supernova Fury",
+      "timestamp": "200 million years ago",
+      "description": "Your star exploded in a catastrophic supernova, blasting you into the cosmos."
+    },
+    {
+      "id": 6,
+      "title": "Interstellar Voyage",
+      "timestamp": "200 million to 4.6 billion years ago",
+      "description": "You traveled through nebulae and dust clouds, part of the stellar scaffold."
+    },
+    {
+      "id": 7,
+      "title": "Planetary Foundation",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and became the foundation of mountains, sand, and stone."
+    }
+  ],
+  "Mg": [
+    {
+      "id": 1,
+      "title": "The Universe Awakens",
+      "timestamp": "13.8 billion years ago",
+      "description": "From the Big Bang came all things."
+    },
+    {
+      "id": 2,
+      "title": "First Light",
+      "timestamp": "13.5 billion years ago",
+      "description": "Massive stars ignited and began their fusion."
+    },
+    {
+      "id": 3,
+      "title": "A Stellar Giant Forms",
+      "timestamp": "9 billion years ago",
+      "description": "A massive star was born, destined to die young and violently."
+    },
+    {
+      "id": 4,
+      "title": "Creation in the Core",
+      "timestamp": "9 billion to 300 million years ago",
+      "description": "In stellar furnaces, you were synthesized, a crucial metal for worlds."
+    },
+    {
+      "id": 5,
+      "title": "Stellar Death",
+      "timestamp": "300 million years ago",
+      "description": "Your star exploded as a supernova, its death your liberation into space."
+    },
+    {
+      "id": 6,
+      "title": "The Stellar Wind",
+      "timestamp": "300 million to 4.6 billion years ago",
+      "description": "You drifted through space on shock waves and radiation."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Green",
+      "timestamp": "3.8 billion years ago",
+      "description": "You arrived on Earth and became the heart of chlorophyll, powering photosynthesis."
+    }
+  ],
+  "S": [
+    {
+      "id": 1,
+      "title": "The Cosmic Fire",
+      "timestamp": "13.8 billion years ago",
+      "description": "The Big Bang ignited existence."
+    },
+    {
+      "id": 2,
+      "title": "Stellar Genesis",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first stars formed and began synthesizing heavier elements."
+    },
+    {
+      "id": 3,
+      "title": "A Massive Star Emerges",
+      "timestamp": "7 billion years ago",
+      "description": "A giant star was born, carrying your future within it."
+    },
+    {
+      "id": 4,
+      "title": "Sulfur Forged",
+      "timestamp": "7 billion to 500 million years ago",
+      "description": "In the star's core, nuclear reactions created you from silicon and oxygen."
+    },
+    {
+      "id": 5,
+      "title": "Apocalyptic Supernova",
+      "timestamp": "500 million years ago",
+      "description": "Your star collapsed and exploded, hurling you into the void."
+    },
+    {
+      "id": 6,
+      "title": "Cosmic Wandering",
+      "timestamp": "500 million to 4.6 billion years ago",
+      "description": "You drifted through nebulae, part of interstellar dust."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Chemistry",
+      "timestamp": "3.8 billion years ago",
+      "description": "You arrived on Earth and became essential to proteins and life's chemistry."
+    }
+  ],
+  "Au": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "The universe ignited into being."
+    },
+    {
+      "id": 2,
+      "title": "Cosmic History",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first stars formed but could not yet create gold."
+    },
+    {
+      "id": 3,
+      "title": "Neutron Stars Converge",
+      "timestamp": "1.5 billion years ago",
+      "description": "Two neutron stars, remnants of ancient supernovae, spiraled toward their final dance."
+    },
+    {
+      "id": 4,
+      "title": "The Merger Approaches",
+      "timestamp": "1 billion years ago",
+      "description": "Drawn by gravity's pull, the neutron stars drew ever closer."
+    },
+    {
+      "id": 5,
+      "title": "Kilonova: Cosmic Violence",
+      "timestamp": "1 billion years ago",
+      "description": "You were forged in the violent merger of neutron stars, born from cosmic violence itself."
+    },
+    {
+      "id": 6,
+      "title": "Through the Stars",
+      "timestamp": "1 billion to 4.6 billion years ago",
+      "description": "You drifted through the galaxy as part of the merger's ejecta."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Treasure",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and became the rarest, most precious element in human history."
+    }
+  ],
+  "Pt": [
+    {
+      "id": 1,
+      "title": "The Universe Begins",
+      "timestamp": "13.8 billion years ago",
+      "description": "The Big Bang released infinite potential."
+    },
+    {
+      "id": 2,
+      "title": "Stars Form",
+      "timestamp": "13.5 billion years ago",
+      "description": "The first massive stars ignited."
+    },
+    {
+      "id": 3,
+      "title": "Neutron Star Dance",
+      "timestamp": "2 billion years ago",
+      "description": "Two neutron stars spiraled together, drawn by gravity's inevitable pull."
+    },
+    {
+      "id": 4,
+      "title": "The Final Approach",
+      "timestamp": "1.5 billion years ago",
+      "description": "The neutron stars drew ever closer, their fate sealed."
+    },
+    {
+      "id": 5,
+      "title": "Kilonova Release",
+      "timestamp": "1.5 billion years ago",
+      "description": "You were liberated in a neutron star merger explosion, one of the universe's most violent events."
+    },
+    {
+      "id": 6,
+      "title": "Cosmic Journey",
+      "timestamp": "1.5 billion to 4.6 billion years ago",
+      "description": "You drifted through the cosmos as part of the merger's noble debris."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Rarity",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth, one of the rarest atoms, born only from cosmic violence."
+    }
+  ],
+  "U": [
+    {
+      "id": 1,
+      "title": "The Big Bang",
+      "timestamp": "13.8 billion years ago",
+      "description": "The universe was born in a moment of infinite creation."
+    },
+    {
+      "id": 2,
+      "title": "First Stars",
+      "timestamp": "13.5 billion years ago",
+      "description": "Massive stars ignited and began fusing elements."
+    },
+    {
+      "id": 3,
+      "title": "Neutron Star Pair",
+      "timestamp": "3 billion years ago",
+      "description": "Two massive stars' deaths created a pair of orbiting neutron stars."
+    },
+    {
+      "id": 4,
+      "title": "Spiraling Together",
+      "timestamp": "2 billion years ago",
+      "description": "The neutron stars orbited closer, drawn inexorably by gravity."
+    },
+    {
+      "id": 5,
+      "title": "The Kilonova",
+      "timestamp": "2 billion years ago",
+      "description": "You were forged in a neutron star collision through r-process nucleosynthesis, the universe's most extreme alchemy."
+    },
+    {
+      "id": 6,
+      "title": "Radioactive Wandering",
+      "timestamp": "2 billion to 4.6 billion years ago",
+      "description": "You drifted through space, your radioactive pulse a cosmic timer."
+    },
+    {
+      "id": 7,
+      "title": "Earth's Ancient Heart",
+      "timestamp": "4.5 billion years ago",
+      "description": "You arrived on Earth and became a measure of geological time itself."
+    }
+  ]
+}

@@ -3,6 +3,7 @@
 // to hear its story via the narration API.
 
 import { motion } from "framer-motion";
+import { useNavigate } from "react-router-dom";
 import elements from "../data/elements.json";
 
 // Map category keys to human-readable display names.
@@ -49,10 +50,12 @@ const cardVariant = {
 
 // Individual element card component.
 // Shows symbol prominently, name and teaser on hover.
-function ElementCard({ element }) {
+// Navigates to Journey page when clicked, passing element via location state.
+function ElementCard({ element, onCardClick }) {
   return (
     <motion.div variants={cardVariant}>
       <div
+        onClick={() => onCardClick(element)}
         className={
           "relative h-40 w-full rounded-lg bg-white/5 border-2 border-opacity-30 " +
           "hover:border-opacity-100 transition-all duration-300 cursor-pointer " +
@@ -86,7 +89,15 @@ function ElementCard({ element }) {
 }
 
 export default function ElementPicker() {
+  // Use navigation hook to send user to Journey page with selected element
+  const navigate = useNavigate();
+
   const groupedElements = groupElementsByCategory();
+
+  // Handler to navigate to Journey page, passing element in location state
+  const handleElementClick = (element) => {
+    navigate("/journey", { state: { element } });
+  };
 
   return (
     <div className="relative z-10 min-h-screen py-12 px-4">
@@ -143,7 +154,7 @@ export default function ElementPicker() {
                 className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"
               >
                 {categoryElements.map((element) => (
-                  <ElementCard key={element.symbol} element={element} />
+                  <ElementCard key={element.symbol} element={element} onCardClick={handleElementClick} />
                 ))}
               </motion.div>
 
